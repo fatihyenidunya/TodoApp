@@ -1,2 +1,0 @@
-# TodoApp
-First description
